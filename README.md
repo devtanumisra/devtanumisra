@@ -7,7 +7,7 @@
 **I am Anish De 😃. I am currently a Sophomore at Dept. of Computer Science and Technology, [IIEST Shibpur](https://www.iiests.ac.in/IIEST/) . I am interested in competitve coding , web development and I like to contribute to open-source.**
 
 ## ⚡ I'm a
-- Competitive Programmer using **Python 3 , C++ **
+- Competitive Programmer using **Python 3 , C++**
 - Backend developer using **Django**
 - Front-end developer using **HTML, Javascript , CSS , Bootstrap, ReactJs**
 - Android developer using **Java**
