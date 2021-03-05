@@ -1,3 +1,6 @@
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, everyone! <img src="https://github.com/Anishde85/Anishde85/blob/main/Hi.gif" width="30px"></h2>
+<img align='right' src='https://github.com/Anishde85/Anishde85/blob/main/techstack.gif' width='200"'>
+
 [![GitHub followers](https://img.shields.io/github/followers/Anishde85?label=Follow&style=social)](https://github.com/Anishde85/?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-anishde85@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:anishde85@gmail.com)](mailto:anishde85@gmail.com)
 
