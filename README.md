@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Anishde85?label=Follow&style=social)](https://github.com/Anishde85/?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-anishde85@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:anishde85@gmail.com)](mailto:anishde85@gmail.com)
 
-**I am Anish De 😃. I am currently a Sophomore at Dept. of Computer Science and Technology, [IIEST Shibpur](https://www.iiests.ac.in/IIEST/) . I am interested in competitve coding , web development and I like to contribute to open-source.**
+**I am Anish De 😃. I am currently a Sophomore at Dept. of Computer Science and Technology, [IIEST Shibpur](https://www.iiests.ac.in/IIEST/) . I am interested in competitve coding , web and app development.**
 
 ## ⚡ I'm a
 - Competitive Programmer using **Python 3 , C++**
