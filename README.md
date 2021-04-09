@@ -14,8 +14,8 @@
 
 ## My Profiles
 - [Codeforces](https://codeforces.com/profile/anishde85)
-- [AtCoder](https://atcoder.jp/users/anishde85)
 - [CodeChef](https://www.codechef.com/users/anish85)
+- [AtCoder](https://atcoder.jp/users/anishde85)
 
 ## My Hobbies
 - **Cricket**
