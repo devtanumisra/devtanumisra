@@ -12,7 +12,7 @@
 
 ## ⚡ I'm a
 - Competitive Programmer using **Python 3 , C++**
-- Backend developer using **Django**
+- Backend developer using **Django, Nodejs**
 - Front-end developer using **HTML, Javascript , CSS , Bootstrap, ReactJs**
 - Android developer using **Java**
 
