@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/devtanumisra?label=Follow&style=social)](https://github.com/devtanumisra/?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-devtanumisra@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:devtanumisra@gmail.com)](mailto:devtanumisra@gmail.com)
 
-**I am Devtanu Misra 😃. I am currently a Pre-Final year student at Dept. of Computer Science and Technology, [IIEST Shibpur](https://www.iiests.ac.in/IIEST/) , exploring various fields of Computer Science**
+**I am Devtanu Misra 😃. I am currently a Pre-Final year student at Dept. of Computer Science and Technology, [IIEST Shibpur](https://www.iiests.ac.in/IIEST/) , exploring various fields of Computer Science.**
 
 ### 🧐 About Me:
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/devtanu-misra-1829441a0/)
